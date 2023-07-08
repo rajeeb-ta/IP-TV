@@ -1,0 +1,148 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/sky.com.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/zh/epg.i-cable.com.xml"
+#EXTM3U
+#EXTINF:-1 tvg-id="24News.in" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="KeralaNews",24 News (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
+#EXTINF:-1 tvg-id="AJNetNews.in" tvg-logo="https://i.imgur.com/DT9VB1Q.png" group-title="KeralaNews",AJ Net News [Not 24/7]
+http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8
+#EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="KeralaGeneral",Amrita TV (720p)
+https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
+#EXTINF:-1 tvg-id="AnandTV.uk" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="KeralaGeneral",Anand TV (720p) [Not 24/7]
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 tvg-id="AsianetNews.in" tvg-logo="https://i.imgur.com/LrHGfdC.png" group-title="KeralaNews",Asianet News (360p)
+https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="CCV.in" tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="KeralaGeneral",CCV (480p)
+https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
+#EXTINF:-1 tvg-id="CDNews.in" tvg-logo="https://i.imgur.com/zIXsuC2.png" group-title="KeralaNews",CD News (576p)
+https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8
+#EXTINF:-1 tvg-id="DoctorLive.in" tvg-logo="https://i.imgur.com/D6cMaVs.png" group-title="KeralaNews",Doctor Live (720p)
+https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="EagleOneNews.in" tvg-logo="https://i.imgur.com/qelJwNi.png" group-title="KeralaGeneral",Eagle One News (576p)
+https://5a1178b42cc03.streamlock.net/8182/8182/playlist.m3u8
+#EXTINF:-1 tvg-id="EnlightNews.in" tvg-logo="https://i.imgur.com/GhiGi5A.png" group-title="KeralaNews",Enlight News (1080p)
+https://live.enlightnews.com/live/enlightnews/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="FlowersTV.in" tvg-logo="https://i.imgur.com/vpoiA6i.png" group-title="KeralaGeneral",Flowers TV (576p)
+http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
+#EXTINF:-1 tvg-id="FoxTV.in" tvg-logo="https://i.imgur.com/cvpDeYH.png" group-title="KeralaGeneral",Fox TV (720p) [Not 24/7]
+http://stream-live.in:11037/hls/foxtv.m3u8
+#EXTINF:-1 tvg-id="GoodnessTV.in" tvg-logo="https://i.imgur.com/DwLYWdK.png" group-title="KeralaReligious",Goodness TV (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCvSkU6Ut85o2B34fD5F1Fyw.m3u8
+#EXTINF:-1 tvg-id="GosreeVision.in" tvg-logo="https://i.imgur.com/pdBo8Xb.png" group-title="KeralaGeneral",Gosree Vision (576p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
+#EXTINF:-1 tvg-id="GraceFamilyTV.in" tvg-logo="https://i.imgur.com/srOoujm.png" group-title="KeralaReligious",Grace Family TV (720p)
+https://gracefamilytv.livebox.co.in/gracefamilytvhls/live.m3u8
+#EXTINF:-1 tvg-id="GregorianTV.in" tvg-logo="https://sgiocadelaide.blob.core.windows.net/gregoriantvcontainer/GregorianTVandNewsLogo.png" group-title="KeralaReligious",Gregorian TV (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UC8ebJ_anG4byfhC_2hT7eKw.m3u8
+#EXTINF:-1 tvg-id="JanamTV.in" tvg-logo="https://i.imgur.com/NMDqooF.png" group-title="KeralaNews",Janam TV (720p)
+https://vidcdn.vidgyor.com/janamtv-origin/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="JeevanTV.in" tvg-logo="https://i.imgur.com/zKDrzDq.png" group-title="KeralaGeneral",Jeevan TV (396p)
+https://yupplivefragcp5.yuppcdn.net/030523/smil:jeevan.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KairaliNews.in" tvg-logo="https://i.imgur.com/GfrEhbx.png" group-title="KeralaNews",Kairali News (720p)
+https://ythls.onrender.com/channel/UCkCWitaToNG1_lR-Si1oMrg.m3u8
+#EXTINF:-1 tvg-id="KairaliWe.in" tvg-logo="https://i.imgur.com/zXpROBj.png" group-title="KeralaGeneral",Kairali We (396p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8
+#EXTINF:-1 tvg-id="KalikaTV.in" tvg-logo="https://i.imgur.com/XWXFoJA.png" group-title="KeralaGeneral",Kalika TV (576p) [Not 24/7]
+http://185.105.4.244:1935/livesp/kalika/playlist.m3u8
+#EXTINF:-1 tvg-id="KappaTV.in" tvg-logo="https://i.imgur.com/e9qTjgB.png" group-title="KeralaGeneral",Kappa TV (360p)
+https://idvd.multitvsolution.com/idvo/kappatv.m3u8
+#EXTINF:-1 tvg-id="KCLTV.in" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="KeralaGeneral",KCL TV (720p)
+https://kcltv.livebox.co.in/kclhls/live.m3u8
+#EXTINF:-1 tvg-id="KeralaVision.in" tvg-logo="https://i.imgur.com/SWNjyyp.png" group-title="KeralaGeneral",Kerala Vision (720p)
+https://yupplivefragcp3.yuppcdn.net/260423/smil:keralavision.smil/index.m3u8
+#EXTINF:-1 tvg-id="KeralaVisionNews.in" tvg-logo="https://i.imgur.com/GVGVEvY.png" group-title="KeralaNews",Kerala Vision News (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCuo69XR8nCP4Ss8ko_5Xbuw.m3u8
+#EXTINF:-1 tvg-id="Keralabhumi.in" tvg-logo="https://i.imgur.com/05BslNS.png" group-title="KeralaGeneral",Keralabhumi (576p)
+http://103.153.92.157:11037/hls/kbh.m3u8
+#EXTINF:-1 tvg-id="MalabarNews.in" tvg-logo="https://i.imgur.com/Un2gxt4.png" group-title="KeralaNews",Malabar News (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+#EXTINF:-1 tvg-id="ManoramaNews.in" tvg-logo="https://i.imgur.com/adjRrVx.png" group-title="KeralaNews",Manorama News (576p)
+http://103.199.161.254/Content/manoramanews/Live/Channel(ManoramaNews)/index.m3u8
+#EXTINF:-1 tvg-id="MathrubhumiNews.in" tvg-logo="https://i.imgur.com/diQftzP.png" group-title="KeralaNews",Mathrubhumi News (576p) [Not 24/7]
+http://103.199.161.254/Content/mathrubhuminews/Live/Channel(Mathrubhuminews)/index.m3u8
+#EXTINF:-1 tvg-id="MazhavilManorama.in" tvg-logo="https://i.imgur.com/fjgzW20.png" group-title="KeralaGeneral",Mazhavil Manorama (396p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/050522/mazhavilmanorama/playlist.m3u8
+#EXTINF:-1 tvg-id="MediaOne.in" tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="KeralaNews",Media One (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UC-f7r46JhYv78q5pGrO6ivA.m3u8
+#EXTINF:-1 tvg-id="OneTV.in" tvg-logo="https://i.imgur.com/6Jh8LRI.png" group-title="KeralaGeneral",One TV (720p)
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
+#EXTINF:-1 tvg-id="PottaDivineTVUSA.us" tvg-logo="https://i.imgur.com/Yx0AnLW.png" group-title="KeralaReligious",Potta-Divine TV USA (480p)
+https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="PowervisionTV.in" tvg-logo="https://i.imgur.com/lKPGT0G.png" group-title="KeralaReligious",Powervision TV (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCzxfpzSF7mz8j7bNIXyZWmA.m3u8
+#EXTINF:-1 tvg-id="PravasiChannel.in" tvg-logo="https://i.imgur.com/1dHarb7.png" group-title="KeralaGeneral",Pravasi Channel (1080p)
+https://m6gdavepdn93-hls-live.5centscdn.com/pravasi/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RealTV.in" tvg-logo="https://i.imgur.com/OL5qm2c.png" group-title="KeralaGeneral",Real TV (720p) [Not 24/7]
+http://cloud.logicwebs.in:1935/realtv/realtv1/playlist.m3u8
+#EXTINF:-1 tvg-id="ReporterTV.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="KeralaNews",Reporter TV (396p)
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/reporter_nim_https/050522/reporter/playlist.m3u8
+#EXTINF:-1 tvg-id="Shalom.in" tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="KeralaReligious",Shalom TV (720p) [Not 24/7]
+https://api.new.livestream.com/accounts/25038049/events/7483919/live.m3u8
+#EXTINF:-1 tvg-id="ShekinahTV.in" tvg-logo="https://i.imgur.com/6hTshsG.png" group-title="KeralaReligious",Shekinah TV (1080p)
+https://ythls.onrender.com/channel/UCHtYUfPnQci6GoUpPlWfrOg.m3u8
+#EXTINF:-1 tvg-id="Starnet.in" tvg-logo="https://i.imgur.com/J3jB7Kr.png" group-title="KeralaGeneral",Starnet (480p)
+https://5a1178b42cc03.streamlock.net/8220/8220/playlist.m3u8
+#EXTINF:-1 tvg-id="TimeVisionNews.in" tvg-logo="https://i.imgur.com/qvuOBP7.png" group-title="KeralaGeneral",Time Vision News (720p)
+http://rtmp.logichost.in:1935/timevision/timevision/playlist.m3u8
+#EXTINF:-1 tvg-id="TwentyFourNews.in" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="KeralaNews",Twenty Four News (396p)
+https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:-1 tvg-id="VBCNews.in" tvg-logo="https://i.imgur.com/SvXCjha.png" group-title="KeralaNews",VBC News (576p)
+https://5a1178b42cc03.streamlock.net/8200/8200/playlist.m3u8
+#EXTINF:-1 tvg-id="VCV.in" tvg-logo="https://i.imgur.com/KbU36xI.png" group-title="KeralaGeneral",VCV (720p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8210/8210/playlist.m3u8
+#EXTINF:-1 tvg-id="VenadNews.in" tvg-logo="https://i.imgur.com/MC6edvH.jpg" group-title="KeralaNews",Venad News (360p)
+https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
+#EXTINF:-1 tvg-id="AdityaMusicIndia.in" tvg-logo="https://t.infibeam.com/img/lookandfeel/5101232/753d6e8f698e4_logo.png.999xx.png" group-title="TeluguMusic",Aditya Music (720p)
+https://ythls.onrender.com/channel/UCNApqoVYJbYSrni4YsbXzyQ.m3u8
+#EXTINF:-1 tvg-id="1TV.ge" tvg-logo="https://i.imgur.com/FSkYLPK.png" group-title="KeralaNews",24 TV (720p)
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="1YesNews.in" tvg-logo="https://i.imgur.com/4HeuLuA.png" group-title="TamilNews",1Yes News (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UC3mHciwDcBC8XucNnRt9C6A.m3u8
+#EXTINF:-1 tvg-id="4KurdHD.fr" tvg-logo="https://i.imgur.com/xy7W0wD.png" group-title="ArabicMusic",4Kurd HD (720p) [Not 24/7]
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 tvg-id="B4UMoviesIndia.in" tvg-logo="https://i.imgur.com/M9kMFJl.png" group-title="HindiMovies",B4U Movies India (576p)
+http://183.89.246.119:8881/play/a08n/index.m3u8
+#EXTINF:-1 tvg-id="AngelTVIndia.in" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="TamilReligious",Angel TV India (720p)
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="B4UMusicIndia.in" tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="HindiMusic",B4U Music India (576p)
+http://183.89.246.119:8881/play/a08o/index.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in" tvg-logo="https://i.imgur.com/45uptR8.png" group-title="EnglishNews",DD India (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCGDQNvybfDDeGTf4GtigXaw.m3u8
+#EXTINF:-1 tvg-id="IndiaNews.in" tvg-logo="https://i.imgur.com/l54AGtz.png" group-title="HindiNews",India News (576p) [Not 24/7]
+https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-logo="https://i.imgur.com/koFYddE.png" group-title="EnglishNews",India Today (720p) [Not 24/7]
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-logo="https://i.imgur.com/ztn2IR8.png" group-title="HindiNews",India TV (1080p) [Not 24/7]
+https://ythls.onrender.com/channel/UCttspZesZIDEwwpVIgoZtWQ.m3u8
+#EXTINF:-1 tvg-id="NickJrIndia.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr India (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="NickelodeonSonic.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png" group-title="Kids",Nickelodeon Sonic Hindi (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="Malaimurasu.in" tvg-logo="https://i.imgur.com/OC5TQxp.png" group-title="TamilNews",Malaimurasu (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UCXbufH95DIUqyAWSzeDI0JQ.m3u8
+#EXTINF:-1 tvg-id="News18Kerala.in" tvg-logo="https://i.imgur.com/AsIdc9P.png" group-title="KeralaNews",News18 Kerala (720p) [Not 24/7]
+https://ythls.onrender.com/channel/UC-mMi78WJST4N5o8_i1FoXw.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplex.in" tvg-logo="https://i.imgur.com/Hvvjfk5.png" group-title="HindiMovies",Colors Cineplex (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexBollywood.in" tvg-logo="https://i.imgur.com/EbHSQAJ.png" group-title="HindiMovies",Colors Cineplex Bollywood (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Cineplex_Bollywood_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsKannadaCinema.in" tvg-logo="https://i.imgur.com/gNbA3NO.png" group-title="KannadaMovies",Colors Kannada Cinema (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Kannada_Cinema_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsCineplexSuperhits.in" tvg-logo="https://i.ibb.co/KbXhstz/Screenshot-20230610-130415.jpg" group-title="HindiMovies",Colors Cineplex Superhits (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="MyCinema.id" tvg-logo="https://i.imgur.com/BTmcTQO.png" group-title="EnglishMovies",My Cinema (1080p)
+http://210.210.155.37/uq2663/h/h192/index.m3u8
+#EXTINF:-1 tvg-id="Colors.in" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="HindiEntertainment",Colors HD (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="ColorsInfinity.in" tvg-logo="https://i.imgur.com/a5uES9j.png" group-title="HindiEntertainment",Colors Infinity (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Colors_Infinity_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="Sports181HD.in" tvg-logo="https://i.ibb.co/NmVCXhz/IMG-20230610-135938.jpg" group-title="Sports",Sports18 1 HD (1080p)
+https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8
+#EXTINF:-1 tvg-id="DarshanaTV.in" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/darshana-tv-channel-logo-300x300.jpg" group-title="KeralaGeneral",Darshana TV (360p) [Not 24/7]
+https://yupplivefragcp4.yuppcdn.net/020523/smil:darshanatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Mangalam.in" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/darshana-tv-channel-logo-300x300.jpg" group-title="KeralaGeneral",Darshana TV (360p) [Not 24/7]
+https://yupplivefragcp4.yuppcdn.net/020523/smil:darshanatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ReporterTV2.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="KeralaNews",Reporter TV2 (396p)
+https://ythls.onrender.com/channel/UCFx1nseXKTc1Culiu3neeSQ.m3u8
+#EXTINF:-1 tvg-id="Surya Comedy.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="KeralaNews",Surya Comedy1
+https://sunnxtv.co.in/sun/app/playlist.php?load=d7cb19f063c1bd98c08e5d6634b75227e1682fbcf3d8efc4a2756b18f9e47af9b287a6d67de9da629b376e877b46edc35709d537ca017115b4828c3c454d5678010cea72489f6aa22d7a3e6c8c277fc35a163e10b430be4123a501f319cf884726eb85e8ae915eaaacf63fee04173f798f031eb7d51e61c6a89b03c70915265b7634b13a1d9f4b3e1c4fce15dd5fbf9ab2e9c43e3df912499f1b61b3688813f089a4e2e3c297b5853299cfa5e789bda00e9babb2e171473de0c091f34bf610ca
+#EXTINF:-1 tvg-id="Surya Comedy.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Reporter-Malayalam-TV-Channel-Logo.jpg" group-title="KeralaNews",Surya Comedy2
+https://sunnxtv.co.in/sun/app/playlist.php?load=d7cb19f063c1bd98c08e5d6634b75227e1682fbcf3d8efc4a2756b18f9e47af9b287a6d67de9da629b376e877b46edc35709d537ca017115b4828c3c454d5678010cea72489f6aa22d7a3e6c8c277fc35a163e10b430be4123a501f319cf884726eb85e8ae915eaaacf63fee04173f798f031eb7d51e61c6a89b03c70915265b7634b13a1d9f4b3e1c4fce15dd5fbf9ab2e9c43e3df912499f1b61b3688813f089a4e2e3c297b5853299cfa5e789bda06db18fb82089bb06ca2eac7cb327982b
