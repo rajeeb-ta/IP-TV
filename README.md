@@ -9,6 +9,6 @@ Play lists you can load to M3U app on smart TV and start watching
 - Starting with south indian channels more organized based on category
 - Categories
     - News
-    - Entertainment
+    - General
     - Music
-    - Others
+    - Relegious
