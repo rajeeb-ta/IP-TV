@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/dishtv.in.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/plex.tv.xml,https://iptv-org.github.io/epg/guides/en/sky.com.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/zh/epg.i-cable.com.xml"
 #EXTM3U
 #EXTINF:-1 tvg-id="24News.in" tvg-logo="https://i.imgur.com/xraizkS.png" group-title="News",24 News (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCup3etEdjyF1L3sRbU-rKLw.m3u8
