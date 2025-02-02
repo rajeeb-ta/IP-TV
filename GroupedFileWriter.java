@@ -1,5 +1,7 @@
 import java.io.*;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 public class GroupedFileWriter {
 
@@ -34,19 +36,21 @@ public class GroupedFileWriter {
                 // Check if the line starts with "#EXTINF:"
                 if (line.startsWith("#EXTINF:")) {
                     // Extract the group-title from the EXTINF line
-                    titleLine = line;
+                    //titleLine = line;
+                    titleLine = replaceGroupTitle(line);
                     groupTitle = extractGroupTitle(line);
                 }
 
                 // Check if there's a URL line following an EXTINF line
                 else if (line.startsWith("http") || line.startsWith("#EXTVLCOPT")) {
-                    if (titleLine != null) {
+                    if (groupTitle != null) {
                         // Append both EXTINF and URL to the list of this group
-                        groupMap.computeIfAbsent(groupTitle, k -> new ArrayList<>())
-                                .add(titleLine);
+                        if(titleLine != null) {
+                            groupMap.computeIfAbsent(groupTitle, k -> new ArrayList<>())
+                                    .add(titleLine);
+                        }
                         groupMap.computeIfAbsent(groupTitle, k -> new ArrayList<>())
                                 .add(line);
-                        groupTitle = null; // Reset groupTitle after processing
                         titleLine = null;
                     }
                 }
@@ -86,14 +90,49 @@ public class GroupedFileWriter {
         int groupTitleIndex = extinfLine.indexOf("group-title=");
         if (groupTitleIndex != -1) {
             // Extract the group-title value between the quotes
-            groupTitle = extinfLine.substring(groupTitleIndex+13, extinfLine.lastIndexOf("\"")); // 12 is the length of "group-title="
+            String temp = extinfLine.substring(groupTitleIndex+13);
+            groupTitle = extinfLine.substring(groupTitleIndex+13, groupTitleIndex+ 13 +  temp.indexOf("\"")); // 12 is the length of "group-title="
             //groupTitle = groupTitle.split("\"")[0]; // Get the value between quotes
         }
 
         // Return "Others" if the group-title is missing or empty
-        if (groupTitle == null || groupTitle.isEmpty()) {
+        if (groupTitleIndex == -1 || groupTitle == null || groupTitle.isEmpty()) {
             return "Others";
+        } else if (groupTitle.matches(".*[,;].*")){
+            groupTitle = groupTitle.split("[,;]")[0];
         }
+
         return groupTitle;
+    }
+
+
+    private static String replaceGroupTitle(String extinfLine) {
+        String oldGroupTitle = null;
+        String newGroupTitle = null;
+        String regex = "(group-title=\")[^\"]*(\")";
+        int groupTitleIndex = extinfLine.indexOf("group-title=");
+        if (groupTitleIndex != -1) {
+            // Extract the group-title value between the quotes
+            String temp = extinfLine.substring(groupTitleIndex+13);
+            // int startIndex = groupTitleIndex+13; 
+            // int endIndex = groupTitleIndex+ 13 +  temp.indexOf("\""); // 12 is the length of "group-title="
+            oldGroupTitle = extinfLine.substring(groupTitleIndex+13, groupTitleIndex+ 13 +  temp.indexOf("\"")); // 12 is the length of "group-title="
+            //groupTitle = groupTitle.split("\"")[0]; // Get the value between quotes
+        }
+
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(extinfLine);
+        // Return "Others" if the group-title is missing or empty
+        if (groupTitleIndex == -1 || oldGroupTitle == null || oldGroupTitle.isEmpty()) {
+            oldGroupTitle =  "";
+            newGroupTitle = "Other";
+        } else {
+            newGroupTitle = oldGroupTitle.split("[,;]")[0];
+        }
+
+        String newtitle = matcher.replaceAll("$1" + newGroupTitle + "$2");
+        return  newtitle;
+
+        //return groupTitle;
     }
 }
