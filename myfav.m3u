@@ -105,8 +105,10 @@ http://87.255.35.150:18485
 https://livetv.timeiptv.in/ShekinahNewsIndia/955ad3298db330b5ee880c2c9e6f23a0.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="SuryaComedy.in@SD" tvg-logo="https://i.imgur.com/dNI0Vm5.png" group-title="SouthIndian",Surya Comedy (576p)
 http://87.255.35.150:18253
-#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="SouthIndian" http-referrer="https://playyonogames.in/",Surya Movies (1080p)
+#EXTINF:-1 tvg-id="SuryaMovies.in@SD" tvg-logo="https://i.imgur.com/FkSCjIo.png" group-title="Movies" http-referrer="https://playyonogames.in/",Surya Movies (1080p)
 #EXTVLCOPT:http-referrer=https://playyonogames.in/
+#KODIPROP:inputstream.adaptive.http-referrer=https://playyonogames.in/
+https://playyonogames.in/live.php?format=.m3u8&id=1754
 #EXTINF:-1 tvg-id="SuryaMusic.in@SD" tvg-logo="https://i.imgur.com/9vcdaKw.png" group-title="SouthIndian",Surya Music (576p)
 http://87.255.35.150:18450
 #EXTINF:-1 tvg-id="SuryaTV.in@SD" tvg-logo="https://i.imgur.com/NqXpFXU.png" group-title="SouthIndian",Surya TV (1080p)
