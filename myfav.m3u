@@ -119,6 +119,10 @@ https://5a1178b42cc03.streamlock.net/8222/8222/playlist.m3u8
 http://87.255.35.150:18502
 #EXTINF:-1 tvg-id="ZeeNewsMalayalam.in@SD" tvg-logo="https://i.imgur.com/MePj7ET.png" group-title="SouthIndian",Zee News Malayalam (720p)
 https://d1ty2af03alkwd.cloudfront.net/index_4.m3u8
+#EXTINF:-1 tvg-id="GosreeVision.in@SD" tvg-logo="https://i.imgur.com/pdBo8Xb.png" group-title="SouthIndian",Gosree Vision (576p) [Not 24/7]
+https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8
+#EXTINF:-1 tvg-id="MediaOne.in@SD" tvg-logo="https://i.imgur.com/oOb7d7R.png" group-title="SouthIndian",Media One (720p)
+https://cdn-3.pishow.tv/live/1481/master.m3u8
 
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-logo="https://i.imgur.com/qubgOi5.png" group-title="NorthIndian",9X Jalwa
 https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
@@ -195,6 +199,7 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u
 http://87.255.35.150:18804
 #EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://i.imgur.com/40BbQUd.png" group-title="Sports" http-user-agent="stream",Sony Sports Ten 5 (1080p)
 #EXTVLCOPT:http-user-agent=stream
+http://87.255.35.150:18818
 #EXTINF:-1 tvg-logo="" group-title="Sports" ,Live T10
 http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Sports" ,Live
