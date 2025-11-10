@@ -129,3 +129,9 @@ http://tv.mediacdn.ru/live/disney/playlist.m3u8
 http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 #EXTINF:-1 tvg-id="GoldenEagleCartoon.cn" tvg-logo="https://i.imgur.com/xfVHrKQ.png" group-title="Animation",金鹰卡通 (576p)
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221226303/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Animation",Cacique TV
+https://vdo2.streamgato.us:3865/live/tvcaciqulive.m3u8
+#EXTINF:-1 tvg-id="CableSurTV.co" tvg-logo="https://i.imgur.com/Rvuyu7R.jpg" group-title="Animation",Cable Sur TV (720p)
+https://tvlatina.live:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal100Chinique.gt" tvg-logo="https://i.imgur.com/ygNKJXx.png" group-title="Animation",Canal 100 Chinique (480p)
+https://cdn.streamhispanatv.net:3295/live/canal100chilive.m3u8
